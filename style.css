@@ -8,6 +8,15 @@ td{
 color:aqua
 
 }
+a:link{
+    color:red
+}
+a:visited{
+    color:green
+}
+
+
+
 *{
     border-top-color:gold;
     border-bottom-color:gold;
